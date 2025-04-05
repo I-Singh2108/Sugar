@@ -1,8 +1,6 @@
 # 🐤 SugarDucky
 
-<p align="center">
-  <img src="./SugarDucky.jpeg" alt="SugarDucky Banner" width="100%" />
-</p>
+![SugarDucky Banner](./SugarDucky.jpeg)
 
 A performance evaluation system that assigns **rubber ducky points** based on daily task reviews. Combines natural language processing with a fun, gamified reward system to boost motivation and engagement in the workplace.
 
@@ -84,8 +82,4 @@ E001, "Customer was frustrated but appreciated my help", Neutral
 **[Your Name]**  
 [LinkedIn] • [Portfolio] • [Website] *(add links here)*
 
----
 
-## 📜 License
-
-MIT License
