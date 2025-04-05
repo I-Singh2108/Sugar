@@ -1,6 +1,6 @@
 # 🐤 SugarDucky
 
-[![YourApp Screenshot]("SugarDucky.jpeg")](https://github.com/I-Singh2108/Sugar/blob/main/SugarDucky.jpeg)
+("SugarDucky.jpeg")](https://github.com/I-Singh2108/Sugar/blob/main/SugarDucky.jpeg)
 
 A sentiment-driven employee performance evaluation system that assigns **rubber ducky points** based on daily task reviews. Combines natural language processing with a fun, gamified reward system to boost motivation and engagement in the workplace.
 
