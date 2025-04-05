@@ -68,6 +68,3 @@ $ npm run dist
 
 ---
 
-## License
-
-[MIT](LICENSE)
