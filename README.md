@@ -4,13 +4,13 @@
   <img src="./SugarDucky.jpeg" alt="SugarDucky Banner" width="100%" />
 </p>
 
-A sentiment-driven employee performance evaluation system that assigns **rubber ducky points** based on daily task reviews. Combines natural language processing with a fun, gamified reward system to boost motivation and engagement in the workplace.
+A performance evaluation system that assigns **rubber ducky points** based on daily task reviews. Combines natural language processing with a fun, gamified reward system to boost motivation and engagement in the workplace.
 
 ---
 
 ## 🚀 Features
 
-- 🔍 **Sentiment Analysis on Daily Reviews**
+- 🔍 **Performance Analysis based on Daily Reviews**
 - 🎯 **Weighted Scoring System** based on verbs, adjectives, and task context
 - 📈 **Efficiency & Performance Metrics** per employee
 - 🐤 **Rubber Ducky Reward System** with up to 10 duckys per day!
