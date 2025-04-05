@@ -1,6 +1,6 @@
-# YourAppName
+# Sugar Ducky
 
-A minimal Markdown Editor desktop app built on top of [Electron](https://www.electronjs.org/).
+A sentiment-driven employee performance evaluation system that assigns **rubber ducky points** based on daily task reviews. Combines natural language processing with a fun, gamified reward system to boost motivation and engagement in the workplace. [Electron](https://www.electronjs.org/).
 
 ![YourApp Screenshot](screenshot.png)
 
@@ -8,24 +8,13 @@ A minimal Markdown Editor desktop app built on top of [Electron](https://www.ele
 
 ---
 
-## Key Features
+## 🚀 Key Features
 
-- **LivePreview – Make changes, See changes**  
-  - Instantly see what your Markdown documents look like in HTML as you create them.
-- **Sync Scrolling**  
-  - While you type, LivePreview will automatically scroll to the current location you're editing.
-- **GitHub Flavored Markdown**
-- **Syntax highlighting**
-- **[KaTeX](https://katex.org/) Support**
-- **Dark/Light mode**
-- **Toolbar for basic Markdown formatting**
-- **Supports multiple cursors**
-- **Save the Markdown preview as PDF**
-- **Emoji support in preview 🎉**
-- **App will keep alive in tray for quick usage**
-- **Write distraction free**
-- **Cross platform**  
-  - Windows, macOS and Linux ready.
+- 🔍 **Sentiment Analysis on Daily Reviews**
+- 🎯 **Weighted Scoring System** based on verbs, adjectives, and task context
+- 📈 **Efficiency & Performance Metrics** per employee
+- 🐤 **Rubber Ducky Reward System** with up to 10 duckys per day!
+- 📊 Ready for integration with dashboards or internal tools
 
 ---
 
