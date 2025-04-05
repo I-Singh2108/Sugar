@@ -1,6 +1,8 @@
 # 🐤 SugarDucky
 
-![SugarDucky Banner](./SugarDucky.jpeg)
+<p align="center">
+  <img src="./SugarDucky.jpeg" alt="SugarDucky Banner" width="100%" />
+</p>
 
 A sentiment-driven employee performance evaluation system that assigns **rubber ducky points** based on daily task reviews. Combines natural language processing with a fun, gamified reward system to boost motivation and engagement in the workplace.
 
