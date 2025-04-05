@@ -26,3 +26,21 @@ $ git clone https://github.com/yourusername/your-repo-name.git
 $ cd your-repo-name
 $ npm install
 $ npm start
+```
+
+To build the app for distribution:
+
+```bash
+$ npm run dist
+```
+
+## Technologies Used
+
+- Electron
+- HTML/CSS
+- JavaScript
+- Node.js
+
+## License
+
+[MIT](LICENSE)
